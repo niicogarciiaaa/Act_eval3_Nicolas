@@ -1,2 +1,3 @@
-# Act_eval3_Nicolas
-Tarea eval3 control de versiones
+# Actividad Realizada por Nicolás García Moreira
+* En esta actividad generaremos un repositorio, asi como algunas ramas de
+desarrollo como ejercicio de la tercera evaluacion
